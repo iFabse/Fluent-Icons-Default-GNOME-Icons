@@ -1,3 +1,10 @@
+This is a fork of https://github.com/vinceliuice/Fluent-icon-theme and not my own. 
+
+I want to share the icons I'm using with default GNOME icons included.
+
+Enjoy!
+
+
 
 ![Fluent](fluent-icon.jpg)
 
